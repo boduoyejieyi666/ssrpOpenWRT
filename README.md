@@ -1,4 +1,4 @@
-# ssrpOpenWRT
+# ssrpOpenWrt
 
 【 x86_64ssrpOpenWrt #Lean & #KFER 编译 】       
 【 192.168.1.1 无初始密码 】       
